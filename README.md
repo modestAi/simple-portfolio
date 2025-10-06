@@ -4,7 +4,6 @@ A simple portfolio website built with React and Tailwind CSS.
 
 ## Tech Stack
 
-Frontend: React, TypeScript, Tailwind CSS.
-Animations: Framer Motion and Canvas API.
-Build Tool: Vite
-
+  1. Frontend: React, TypeScript, Tailwind CSS
+  2. Animations: Framer Motion and Canvas API
+  3. Build Tool: Vite
