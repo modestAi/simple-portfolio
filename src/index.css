@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+@layer utilities {
+  .gradient-my {
+    background: radial-gradient(circle at 82% 0%,
+        #4173d157,
+        #3a139454,
+        #191b7973)
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
